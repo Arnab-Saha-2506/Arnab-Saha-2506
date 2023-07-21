@@ -31,7 +31,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :telescope: I’m studying B.Tech in ECE in Narula Institute of Technology and sharpening my programming skills parallelly.
 
-- :seedling: Exploring new world everyday.
+- :seedling: Exploring new world and gaining new experience everyday.
 
 - :zap: In my free time, I solve problems on coding ninjas or codechef.
 
