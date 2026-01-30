@@ -29,11 +29,13 @@
 
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m studying B.Tech in ECE in Narula Institute of Technology and sharpening my programming skills parallelly.
+- :Work: Working as an Associate Software Engineer at Accenture. Working in backend technologies.
+
+- :telescope: Completed B.Tech in ECE in Narula Institute of Technolog.
 
 - :seedling: Exploring new world and gaining new experience everyday.
 
-- :zap: In my free time, I solve problems on coding ninjas or codechef.
+- :zap: In my free time, I solve problems on LeetCode or GFG.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-saha-8b829b189/)
 
