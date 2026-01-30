@@ -29,7 +29,7 @@
 
 I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :Work: Working as an Associate Software Engineer at Accenture. Working in backend technologies.
+- 👜 Working as an Associate Software Engineer at Accenture. Working in backend technologies.
 
 - :telescope: Completed B.Tech in ECE in Narula Institute of Technolog.
 
