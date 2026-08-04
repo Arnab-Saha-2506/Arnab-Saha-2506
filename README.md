@@ -1,7 +1,3 @@
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnab-Saha-2506&style=flat-square&color=blue" alt=""/>
-</div>
 # 💫 About Me:
 I am a programmer  from India.<br><br>👜 Working as an Associate Software Engineer at Accenture. Working in backend technologies.<br><br>🔭 Completed B.Tech in ECE in Narula Institute of Technolog.<br><br>🌱 Exploring new world and gaining new experience everyday.<br><br>⚡ In my free time, I solve problems on LeetCode or GFG.<br><br>📫 How to reach me: Linkedin Badge
 
@@ -20,6 +16,7 @@ I am a programmer  from India.<br><br>👜 Working as an Associate Software Engi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arnab-Saha-2506&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnab-Saha-2506&style=flat-square&color=blue" alt=""/>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
