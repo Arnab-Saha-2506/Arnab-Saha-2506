@@ -62,7 +62,7 @@ I am a programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ### :fire: My Stats :
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-saha-2506&layout=compact&theme=vision-friendly-dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnab-Saha-2506&theme=2077))
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arnab-Saha-2506&theme=2077)
 
 
 
