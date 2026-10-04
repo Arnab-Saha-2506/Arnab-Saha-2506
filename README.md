@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a programmer  from India.<br><br>👜 Working as an Associate Software Engineer at Accenture. Working in backend technologies.<br><br>🔭 Completed B.Tech in ECE in Narula Institute of Technolog.<br><br>🌱 Exploring new world and gaining new experience everyday.<br><br>⚡ In my free time, I solve problems on LeetCode or GFG.<br><br>📫 How to reach me: Linkedin Badge
+I am a **Backend Software Engineer** specializing in Java and Spring Boot microservices, system architecture, and database design.
+
+- 🛠️ **Tech Focus:** Java, Spring Boot, Spring Security (OAuth2/JWT), REST APIs, Hibernate/JPA
+- 💾 **Databases & Caching:** MySQL, MongoDB, Redis
+- 🚀 **Projects:** Built concurrent scheduling platforms (**Slotify**) and location-aware backend discovery platforms (**PujaPath**)
+- ⚡ **Problem Solving:** Active on LeetCode & GeeksforGeeks
 
 
 ## 🌐 Socials:
